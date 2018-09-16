@@ -8,6 +8,7 @@ This repository is main README page.
 Thank you :smiley:
 
 Lastest edited at 0916 by 채호열
+
 Version 1.2
 
 Name | Grade
@@ -20,7 +21,7 @@ Name | Grade
 
 ---
 ## 채호열
-> ### 전공 : 컼퓨터정보통신공학과
+> ### 전공 : 컴퓨터정보통신공학과
 > ### 학번 : 201314403
 > ### 나이 : 25
 ---
