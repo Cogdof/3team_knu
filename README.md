@@ -45,3 +45,4 @@ Name | Grade
 * 수학과 영어가 싫습니다. **싫어도 해야합니다.**
 ---
 
+1 min polling test
